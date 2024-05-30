@@ -209,3 +209,5 @@ function draw() {
 // let interval = setInterval(draw, 10);
 
 draw(); // pr appl la fct draw la 1ere fois 
+
+// init() -> pour avoir image  faire funvtion init (){ image.src ="image.png"}; 
